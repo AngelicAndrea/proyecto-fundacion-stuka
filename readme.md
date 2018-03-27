@@ -95,7 +95,7 @@ User persona, realizar el trabajo de conocer más a los usuarios que desean adop
 *Observaciones:*
 Los usuarios tienen un amor hacia los animales, muchos en la niñez tuvieron una mascota y anhelan esos recuerdos, el deseo de querer ayudar también es un punto importante a la hora de tomar la decisión de adoptar. Preocupación del entorno del animal, Empatía hacía los animales.
 
-###Definir Conclusiones
+### Definir Conclusiones
 
 **Día 7:**
 
@@ -116,7 +116,6 @@ Los usuarios tienen un amor hacia los animales, muchos en la niñez tuvieron una
 
 ### Idealización
 ***
-
 Día 8:
 Arquitectura de la Información:
 
@@ -130,7 +129,6 @@ Manteniendo una coherencia con el diseño. Simple mediante responda el cuestiona
 Al responder las preguntas se presenta las alternativas con fotografías atractivas, también tiene un buscador para buscar un perro en específico ya que la fundación realiza jornadas de adopción. En la ficha del animal, se aprecian más vistas de imágenes y un pequeño vídeo para observar cómo se desenvuelve el animal. El lenguaje usado en las fichas será en primera persona, el perro estará comentando su descripción y cómo llegó a la fundación, su carácter. Para evocar más emocionalidad y que sea muy parecido a la experiencia de encontrarse un perro en condición de abandono en la calle.
 
 ### PRESENTACIÓN DE POSIBLE SOLUCIÓN A LA FUNDACIÓN STUKA
-***
 
 Lograron realizar la tarea asignada de poder adoptar a Acelga. Se aclaró los puntos. En la actualidad usuarios que adoptan perros a través del sitio al momento de generar el contacto directo a través de entrevistas telefónicas o posibles visitas. Solicitan más fotos del animal, un vídeo o la historia de cómo llegó a la fundación. Y la encargada de Adopción debe generar la búsqueda con los técnicos veterinarios que les mande fotos, vídeos y la historia del animal de como llego a la fundación. 
 
