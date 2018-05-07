@@ -15,7 +15,7 @@ Fundación Stuka es una organización que ayuda a los animales. Cuentan con un r
 Realizar un proyecto individual y tema libre. Escogí mejorar la experiencia de adopción en el sitio web fundación Stuka en donde soy voluntaria desde el año 2013. El tema de la sobrepoblación canina es un problema país. La mayoría de los perros callejeros alguna vez tuvieron un dueño que los abandonó o se les perdió. Por eso es importante en el sitio web, se entregue toda la información de los perros que se encuentren en búsqueda de una segunda oportunidad. 
 
 # Descubrimiento e investigación
-**Research Cualitativo
+### Research Cualitativo
 
 ![app](imagenes/app-01.png)
 
@@ -34,10 +34,7 @@ Se realizó entrevista a 4 usuarios, el contexto de las entrevistas fueron en la
 **Conclusiones:**
 En las entrevistas los usuarios se expresaban con mucho cariño y amor al momento de hablar sobre sus mascotas. El cómo llegaron a sus hogares fueron en circunstancias en donde el perro enfrenta alguna dificultad  por ejemplo en un accidente, o desnutrición, eso generó empatía de querer ayudarlos y protegerlos. 
 
-
-
- 
-<img src="imagenes/entrevista-01.png" width="600">
+<img src="imagenes/entrevista-01.png" width="1000">
 
 **Día 3:**
 Encuesta online, obtener dato cuantitativo ¿cómo llegó a sus hogares sus mascotas?.
