@@ -23,7 +23,7 @@ Se comenzó con realizar el guión de la entrevista para armar un set de pregunt
 
 objetivos de las preguntas son:
 * Conocer las motivaciones de los posibles adoptantes.
-+ ¿Qué tan informados están los posibles adoptantes con fundaciones?.
+* ¿Qué tan informados están los posibles adoptantes con fundaciones?.
 * ¿Cuáles son las necesidades de querer adoptar?.
 * ¿Cómo buscan la información para poder adoptar?
 * Conocer experiencias de usuarios que ya han adoptado
@@ -36,89 +36,50 @@ En las entrevistas los usuarios se expresaban con mucho cariño y amor al moment
 
 <img src="imagenes/entrevista-01.png" width="1000">
 
-**Día 3:**
-Encuesta online, obtener dato cuantitativo ¿cómo llegó a sus hogares sus mascotas?.
+### Testing Video
 
-<img src="imagenes/encuesta-01.png" width="600">
+Se realizó un testing de vídeo a través de la herramienta Loom. se realiza un testeo con el sitio web actual. La tarea era que el usuario vivía en un depto,  deportista y le gustaría adoptar una perro de sexo hembra de tamaño mediano y activa para realizar en su compañía las actividades.
 
-*Observaciones:*
-La gran mayoría tiene perro como mascota y el proceso de llegada al hogar en su mayoría es por adopción o encontrado en la calle y luego adoptado. Al momento de tomar la decisión de tener una mascota, influye el entorno tales como el espacio, tamaño, entre otros. Pero el factor más importante al momento de decidir para tener una mascota es el amor hacía ellos.
+![video testing-01](https://user-images.githubusercontent.com/32288156/39684700-25a4340a-5194-11e8-8233-ee43c5ed0bef.png)
 
-**Día 4:**
-Estudio de Mercado, Se buscó información sobre la población el porcentaje que poseen perro en sus hogares.
+**Conclusiones:**
 
-### Por qué razón se adopta un perro
+al usuario le costó trabajo cumplir con la tarea asignada, no lograba observar  con la imagen del perro su tamaño o las características no era suficiente, sintió frustración, al momento de escoger un perro ya que era importante que cumpliera con las características dada, el usuario comprendía la importancia de escoger bien al animal . Al querer enviar el formulario de pre-adopción, le tomó tiempo en entender las preguntas y la forma del enviarlo, no le quedó claro.  Al final escogió a una perrita por su carita le produjo ternura.
+
+Al rellenar el formulario, quedo en espera que se comunicaran con ella para continuar con el proceso de adopción y testo. Es fundamental la comunicación después del envió del formulario, parte de mi investigación en dos sitios nacionales realice dos adopciones en una fundación me llamaron al día siguiente y la siguiente fundación se contactaron conmigo al segundo día por whatsaap. La fundación stuka se contactó con el usuaria al cuarto día. 
+
+### Research Cuantitativo
+**Estudio Mercado**
+
+Se buscó información sobre la población Canina en los Hogares.
+
+**Por qué razón se adopta un perro**
 El 54,8% de los hogares tiene un perro y el 20,9% un gato.
-
-**Razones**  También se puede analizar el perfil de los dueños de mascotas. Los resultados muestran que el porcentaje de mascotas de familias con hijos es mayor que el de familias sin hijos o personas solas. Es habitual que las familias con niños tengan mascotas no solo por los niños, sino también porque resulta más fácil cuidar bien a una mascota si colaboran más personas. También es más frecuente que adopten personas que tuvieron mascota cuando eran niños. 
+Razones También se puede analizar el perfil de los dueños de mascotas. Los resultados muestran que el porcentaje de mascotas de familias con hijos es mayor que el de familias sin hijos o personas solas. Es habitual que las familias con niños tengan mascotas no solo por los niños, sino también porque resulta más fácil cuidar bien a una mascota si colaboran más personas. También es más frecuente que adopten personas que tuvieron mascota cuando eran niños.
 
 Estas son, entre otras, las razones por las que se desea adoptar una mascota:
 
-- Por su amor incondicional por el propietario y demás miembros de la familia.
-- Porque no juzgan ni la personalidad ni el aspecto de las personas.
-- Porque son compañeros fieles y pueden convertirse en nuestros mejores amigos.
-- Porque son muy bonitos.
-- Porque siempre están contentos y nos contagian su buen humor.
-- Por los beneficios para la salud que conllevan el paseo y los cuidados al perro.
-- Porque ayudan a fortalecer el sistema inmunitario de los niños y reducen la posibilidad de desarrollar alergias.
-- Porque son juguetones y divertidos.
-- Porque mejoran la autoestima de sus propietarios, especialmente en el caso de los niños y de las personas que viven solas.
-- Porque al acariciar y abrazar a una mascota, se reduce el nivel de estrés.
+* Por su amor incondicional por el propietario y demás miembros de la familia.
+* Porque no juzgan ni la personalidad ni el aspecto de las personas.
+* Porque son compañeros fieles y pueden convertirse en nuestros mejores amigos.
+* Porque son muy bonitos.
+* Porque siempre están contentos y nos contagian su buen humor.
+* Por los beneficios para la salud que conllevan el paseo y los cuidados al perro.
+* Porque ayudan a fortalecer el sistema inmunitario de los niños y reducen la posibilidad de desarrollar alergias.
+* Porque son juguetones y divertidos.
+* Porque mejoran la autoestima de sus propietarios, especialmente en el caso de los niños y de las personas que viven solas.
+* Porque al acariciar y abrazar a una mascota, se reduce el nivel de estrés.
 
+**Estudio Mercado**
+Según estudio Chile 3D 2014 un 65.3% de los chilenos tiene alguna mascota. Un 54,8% de los encuestados declara tener perro, un 20,9% declara tener gato y un 2,8% declara tener algún otro tipo de mascota.
+En 2011, PetSmart Charities en EE. UU. realizó un estudio de mercado para examinar las actitudes y comportamientos de las personas respecto a la adopción de mascotas. Se pueden adquirir un perro o gato de diversas maneras: Acudiendo a fundaciones en las jornada de adopción. a través de miembros de familia, criaderos de animales, adoptando animales que encontramos abandonados. el 19% se adoptan en una fundación de animales. Las principales motivaciones para adoptar mascotas en una fundación de animales incluyen el deseo de salvar una vida (73%), la búsqueda de un compañero especial (72%) y el deseo de reducir el número de mascotas callejeras sacrificadas (72%). Las razones alegadas para no adoptar en una protectora de animales son, entre otras: querer un animal de pura raza (13%), no encontrar el animal deseado (17%), un proceso de adopción demasiado complejo (10%) y encontrar las protectoras de animales deprimentes o no poder acudir por incompatibilidad horaria (7%).
+Vínculos Existen muchas razones para adoptar una mascota. Algunos eligen una raza que les gusta especialmente o que les parece que se adaptará mejor a su estilo de vida. Otros deciden adoptar en un refugio de animales porque les parece una forma de ayudar. Independientemente de la procedencia de una mascota, la mayoría de propietarios establecen un estrecho vínculo con ella, la ven como un miembro más de la familia y disfrutan de muchos de los beneficios previamente listados.
 
-**Estudio Mercado** Según estudio Chile 3D 2014 un 65.3% de los chilenos tiene alguna mascota. Un 54,8% de los encuestados declara tener perro, un 20,9% declara tener gato y un 2,8% declara tener algún otro tipo de mascota.
+### Benchmark
+![berchmark-01](https://user-images.githubusercontent.com/32288156/39684823-02a6a5ea-5195-11e8-8403-e24dfacbfada.png)
 
-En 2011, PetSmart Charities en EE. UU. realizó un estudio de mercado para examinar las actitudes y comportamientos de las personas respecto a la adopción de mascotas. Se pueden adquirir un perro o gato de diversas maneras: Acudiendo a fundaciones en las jornada de adopción. a través de miembros de familia, criaderos de animales, adoptando animales que encontramos abandonados. 
-el 19% se adoptan en una fundación de animales.
-Las principales motivaciones para adoptar mascotas en una fundación de animales incluyen el deseo de salvar una vida (73%), la búsqueda de un compañero especial (72%) y el deseo de reducir el número de mascotas callejeras sacrificadas (72%).
-Las razones alegadas para no adoptar en una protectora de animales son, entre otras: querer un animal de pura raza (13%), no encontrar el animal deseado (17%), un proceso de adopción demasiado complejo (10%) y encontrar las protectoras de animales deprimentes o no poder acudir por incompatibilidad horaria (7%).
+Los sitios Web internacionales observados se puede apreciar en su portales de adopciones. Que al presentar, características de cada perrito son hablados en primera persona, el animal expresando su historia cómo llegó a la organización y las condiciones que se encuentra.
 
-**Vínculos** Existen muchas razones para adoptar una mascota.  Algunos eligen una raza que les gusta especialmente o que les parece que se adaptará mejor a su estilo de vida. Otros deciden adoptar en un refugio de animales porque les parece una forma de ayudar.  Independientemente de la procedencia de una mascota, la mayoría de propietarios establecen un estrecho vínculo con ella, la ven como un miembro más de la familia y disfrutan de muchos de los beneficios previamente listados.
-
-### SÍNTESIS DE LA INVESTIGACIÓN
-
-**Día 5:**
-Customer Journey Map, se realiza un testeo con el sitio web actual. La tarea era que el usuario vivía en un depto,  que realiza deporte y le gustaría adoptar una perro de sexo hembra de tamaño mediano y activa para realizar en su compañía las actividades.
-
-<img src="imagenes/mapa-01.png" width="600">
-
-
-*Observaciones:*
-al usuario le costó mucho trabajo cumplir la tarea, no lograba comprender el tamaño del perro con sólo ver imagen o la información que observaba no era suficiente, sintió frustración, al momento de escoger un perro. Al querer enviar el formulario de pre-adopción, le tomó tiempo en entender las preguntas y la forma del enviarlo, no quedó claro. 
-
-Una observación importante al dar sus datos aún no se ha comunicado con ella para saber en qué proceso está en la adopción. Cómo dato importante y para que se logre la adopción es fundamental la comunicación después del envió del formulario, parte de mi investigación en dos sitios nacionales realice dos adopciones y dentro de la semana recibí una llamada de los refugios para continuar con el proceso de adopción.
-
-**Día 6:**
-User persona, realizar el trabajo de conocer más a los usuarios que desean adoptar a través del sitio web.
-
-<img src="imagenes/user-01.png" width="800">
-
-*Observaciones:*
-Los usuarios tienen un amor hacia los animales, muchos en la niñez tuvieron una mascota y anhelan esos recuerdos, el deseo de querer ayudar también es un punto importante a la hora de tomar la decisión de adoptar. Preocupación del entorno del animal, Empatía hacía los animales.
-
-### Definir Conclusiones
-
-**Día 7:**
-
-**Problem Statements**
-{Tamara} necesita un espacio para poder adoptar un perro, así lograr tener un amigo con quien hacer sus actividades.
-
-**HMW (How Might o cómo podríamos)**
-- Cómo podríamos ayudar a nuestro usuario que encuentre un perro que se ajuste a su perfil.
-
-**WHAT IF**
-- Qué pasaría si existiera filtros para categorizar por tamaños, sexo y personalidad entre otros.
-- Qué pasaría si mostrarán fotografías de los perros en sus diferentes vistas.
-- Qué pasaría si en el sitio hubiera una reseña de cómo llegó el perrito a la fundación.
-- Qué pasaría si aparezca los perros que ya están en proceso de adopción.
-- Qué pasaría si aparece vídeos de los perros de la fundación.
-- Qué pasaría que pudieran también apadrinar a un perro de la fundación.
-- Qué pasaría si la descripción del perro se presentará de una manera lúdica y hablada en primera persona, es el perro contando su historia.
-
-### Idealización
-***
-Día 8:
-Arquitectura de la Información:
 
 ![](imagenes/arquitectura-01.png)
 
