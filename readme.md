@@ -90,21 +90,46 @@ Elabore **User personas** enfocados en en un usuario que tienen mascotas. Para c
 
 Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas de cuando quieren adoptar un perro en el sitio web actual de la fundación. De acuerdo a la investigación del testing vídeo.
 
+![mapa-stuka-01](https://user-images.githubusercontent.com/32288156/39685111-9e69aaf8-5196-11e8-9a37-825360c74752.png)
+
+### Problem Statement
+
+A partir del Customer Journey Map se definieron las principales necesidades de los usuarios.
+* Se necesita cumplir ciertas características para poder adoptar un perro.
+
+### HMW / What if?
+Luego del planteamiento del problema se definieron las preguntas claves ¿Cómo podríamos? (HMW) (What if?), estas preguntas sirvieron para entender más los problemas y desarrollar mejores hipótesis. 
+* Qué pasaría si existiera filtros para categorizar por tamaños, sexo y personalidad entre otros.
+* Qué pasaría si mostrarán fotografías de los perros en sus diferentes vistas.
+* Qué pasaría si en el sitio hubiera una reseña de cómo llegó el perrito a la fundación.
+* Qué pasaría si aparezca los perros que ya están en proceso de adopción.
+* Qué pasaría si aparece vídeos de los perros de la fundación.
+* Qué pasaría que pudieran también apadrinar a un perro de la fundación.
+* Qué pasaría si la descripción del perro se presentará de una manera lúdica y hablada en primera persona, es el perro contando su historia.
+
+# Ideación
+### Propuesta de Valor
+
+* Enfocado en la búsqueda de adoptar, pero de una manera simple, iniciara en el home del sitio web, donde invitan a comenzar la búsqueda respondiendo un cuestionario.
+
+### Arquitectura de la información
+La arquitectura de la información me ayudó a organizar, etiquetar y diseñar el contenido que tendrá el sitio web. Esto me permite dar estructura, completar objetivos y dar sentido a la información. 
+
 ![](imagenes/arquitectura-01.png)
 
-*Observaciones:*
-Enfocado en la búsqueda de adoptar, pero de una manera simple, iniciara en el home del sitio, con un lenguaje en primera persona de un perro, donde invita a comenzar la búsqueda del perro respondiendo un cuestionario y los perros que aparezcan sea el reflejo de las respuestas de la encuesta.
+### User flow y Testing
+Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios. Al momento de iniciar una búsqueda de los perros en adopción en la fundación. 
 
-**¿Qué estructura va a tener?**
-Manteniendo una coherencia con el diseño. Simple mediante responda el cuestionario aparece la siguiente pregunta, son con alternativas de fácil respuesta. La última pregunta es enfocada en el carácter del perro (la fundación los tiene definidos). Con una breve descripción a que a punta cada carácter del animal.
-Al responder las preguntas se presenta las alternativas con fotografías atractivas, también tiene un buscador para buscar un perro en específico ya que la fundación realiza jornadas de adopción. En la ficha del animal, se aprecian más vistas de imágenes y un pequeño vídeo para observar cómo se desenvuelve el animal. El lenguaje usado en las fichas será en primera persona, el perro estará comentando su descripción y cómo llegó a la fundación, su carácter. Para evocar más emocionalidad y que sea muy parecido a la experiencia de encontrarse un perro en condición de abandono en la calle.
+![mapa-stuka-01](https://user-images.githubusercontent.com/32288156/39685243-87c6ae08-5197-11e8-9874-019ee1592f31.png)
 
-### PRESENTACIÓN DE POSIBLE SOLUCIÓN A LA FUNDACIÓN STUKA
+Los wireframes fue testeado por funcionarios de la fundación en donde lograron realizar la tarea asignada:
+* Responder el cuestionario de acuerdo a los criterios de un supuesto adoptante
+* Adoptar a Acelga una perrita de la fundación.
 
-Lograron realizar la tarea asignada de poder adoptar a Acelga. Se aclaró los puntos. En la actualidad usuarios que adoptan perros a través del sitio al momento de generar el contacto directo a través de entrevistas telefónicas o posibles visitas. Solicitan más fotos del animal, un vídeo o la historia de cómo llegó a la fundación. Y la encargada de Adopción debe generar la búsqueda con los técnicos veterinarios que les mande fotos, vídeos y la historia del animal de como llego a la fundación. 
+Se reafirma la hipótesis de entregar mayor información y características de los perros en adopción, ya que en la actualidad la voluntaria de las adopciones del sitio web, al momento de comunicarse con ella son los mismos posibles adoptantes le solicitan más fotografías de los perros, la historia de cómo llegó el animal o vídeo de él.
 
 ![](imagenes/fundacion-01.png)
 
-## Prototipo
-***
-Al momento de realizar el prototipo, investigue en otros sitios cómo estaban hechos los cuestionarios. Cómo se presentaba las imágenes de los perros en otros sitios. 
+# Prototipo de alta fidelidad
+Las observaciones hechas en el testing fueron corregidas, para así mejorar la experiencia del usuario al momento de iniciar la búsqueda de un perro en adopción. Este nuevo prototipo fue hecho con la herramienta Marvelapp.
+
