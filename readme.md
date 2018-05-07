@@ -120,7 +120,7 @@ La arquitectura de la información me ayudó a organizar, etiquetar y diseñar e
 ### User flow y Testing
 Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios. Al momento de iniciar una búsqueda de los perros en adopción en la fundación. 
 
-![mapa-stuka-01](https://user-images.githubusercontent.com/32288156/39685243-87c6ae08-5197-11e8-9874-019ee1592f31.png)
+![userflow-01](https://user-images.githubusercontent.com/32288156/39685343-6a32111a-5198-11e8-8fdc-9aa4cb4b0319.png)
 
 Los wireframes fue testeado por funcionarios de la fundación en donde lograron realizar la tarea asignada:
 * Responder el cuestionario de acuerdo a los criterios de un supuesto adoptante
