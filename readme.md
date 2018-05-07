@@ -1,38 +1,42 @@
 # Fundación Stuka
 
-Fundación Stuka es una organización que ayuda a los animales en este caso perros. Cuentan con un refugio de 120 perros ubicado en Casa Blanca. Cuentan con un sitio web en donde se pueden adoptar a los animales. El proyecto se encuentra enfocado en mejorar la experiencia de usuario, en donde sea más llamativo y fácil de usar el proceso de adopción en el sitio web.
+Fundación Stuka es una organización que ayuda a los animales. Cuentan con un refugio de 120 perros ubicado en Casa Blanca. Cuentan con un sitio web en donde se pueden adoptar a los animales. El proyecto se encuentra enfocado en mejorar la experiencia de poder adoptar a los perritos a través del sitio web.
 
 ![logo-01](https://user-images.githubusercontent.com/32288156/37945709-df9edcf0-3157-11e8-8afa-23156c1f0e89.png)
 
 ## Desarrollado para
 
-[Laboratoria](https://marvelapp.com/63a9d8d/screen/39802648)
+[Laboratoria & Fundación Stuka](https://marvelapp.com/63a9d8d/screen/39802648)
+
+### Proceso de diseño
+![proceso-diseno](https://user-images.githubusercontent.com/32288156/39684396-fa0c7458-5191-11e8-9008-7d825c566ed3.png)
+
+### Objetivo
+Realizar un proyecto individual y tema libre. Escogí mejorar la experiencia de adopción en el sitio web fundación Stuka en donde soy voluntaria desde el año 2013. El tema de la sobrepoblación canina es un problema país. La mayoría de los perros callejeros alguna vez tuvieron un dueño que los abandonó o se les perdió. Por eso es importante en el sitio web, se entregue toda la información de los perros que se encuentren en búsqueda de una segunda oportunidad. 
+
+# Descubrimiento e investigación
+**Research Cualitativo
 
 ![app](imagenes/app-01.png)
 
-## DESCUBRIMIENTO E INVESTIGACIÓN
-***
+Se comenzó con realizar el guión de la entrevista para armar un set de preguntas para priorizar los temas de la investigación. Se realizaron 4 entrevistas para conocer a los usuarios y también para conocer la si tienen mascotas.
 
-**Día 1:**
-Comenzar la etapa de investigación, Recopilar información sobre sitios de la competencia, estudios de Mercado, encuestas y entrevistas. 
+objetivos de las preguntas son:
+* Conocer las motivaciones de los posibles adoptantes.
++ ¿Qué tan informados están los posibles adoptantes con fundaciones?.
+* ¿Cuáles son las necesidades de querer adoptar?.
+* ¿Cómo buscan la información para poder adoptar?
+* Conocer experiencias de usuarios que ya han adoptado
+* Experiencia de los usuarios en buscar una mascota.
 
-Realizar un **Benchmark** para comparar ciertos sitios web y obtener observaciones.
+Se realizó entrevista a 4 usuarios, el contexto de las entrevistas fueron en la calle escogidos al azar o si se encontraban paseando a su mascota. 
 
-**Observaciones:**
+**Conclusiones:**
+En las entrevistas los usuarios se expresaban con mucho cariño y amor al momento de hablar sobre sus mascotas. El cómo llegaron a sus hogares fueron en circunstancias en donde el perro enfrenta alguna dificultad  por ejemplo en un accidente, o desnutrición, eso generó empatía de querer ayudarlos y protegerlos. 
 
-Los sitios internacionales observados resuelven mejor la problemática al presentar al perro con más información y fácil acceso a ella. Las fotografías tienen una mejor calidad, se presenta en varias vistas en uno de los sitios se muestra un pequeño vídeo del animal, mostrando cómo se desenvuelve en el entorno. La descripción del animal es más lúdica, aparte de su descripción básica como el peso, sexo, carácter. Se presenta la historia de las condiciones de cómo llegó al refugio. 
 
-**Día 2:**
-Guión entrevista.
-*Objetivos*
-- Conocer las motivaciones de los posibles adoptantes.
 
-- ¿Qué tan informados están los posibles adoptantes con fundaciones?.
-- ¿Cuáles son las necesidades de querer adoptar?.
-- ¿Cómo buscan la información para poder adoptar?
-- Conocer experiencias de usuarios que ya han adoptado
-- Experiencia de los usuarios en buscar una mascota.
-
+ 
 <img src="imagenes/entrevista-01.png" width="600">
 
 **Día 3:**
