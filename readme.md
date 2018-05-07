@@ -80,6 +80,15 @@ Vínculos Existen muchas razones para adoptar una mascota. Algunos eligen una ra
 
 Los sitios Web internacionales observados se puede apreciar en su portales de adopciones. Que al presentar, características de cada perrito son hablados en primera persona, el animal expresando su historia cómo llegó a la organización y las condiciones que se encuentra.
 
+# Síntesis y definición
+### User Persona - Arquetipos
+
+Elabore **User personas** enfocados en en un usuario que tienen mascotas. Para comprender más las necesidades de los usuarios al momento de querer adoptar.
+![userpersona-01](https://user-images.githubusercontent.com/32288156/39685000-089305e2-5196-11e8-9a9b-b4b7fb83f738.png)
+
+### User Journey Map
+
+Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas de cuando quieren adoptar un perro en el sitio web actual de la fundación. De acuerdo a la investigación del testing vídeo.
 
 ![](imagenes/arquitectura-01.png)
 
